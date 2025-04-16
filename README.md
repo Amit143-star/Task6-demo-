@@ -17,7 +17,7 @@ Upload files directly:
 Click Add file > Upload files
 Upload your index.html and any other assets (like style.css, images, etc.)
 OR use Git:
-git clone https://github.com/your-username/my-static-site.git
+git clone https://github.com/your-amit1431-star/my-static-site.git
 cd my-static-site
 # Add your HTML files here
 git add .
@@ -35,9 +35,9 @@ Click Save
 
 4. Access Your Live Website
 After a few seconds, GitHub will provide a link like:
-https://your-username.github.io/my-static-site/
+https://your-amit1431-star.github.io/my-static-site/
 Deliverables
 Live Website Link:
-> https://your-username.github.io/my-static-site/
+> https://your-amit1431-star.github.io/my-static-site/
 GitHub Repo Link:
 > https://github.com/your-amit1431-star/my-static-site
